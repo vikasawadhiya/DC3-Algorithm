@@ -1,7 +1,7 @@
 # DC3-Algorithm
 DC3 algorithm is liner time suffix array construction algorithm. Suffix array is simpler and more space efficient then suffix tree. Suffix array theoretically can replace suffix tree in all problems.
 
-##Tutorial Document
+## Tutorial Document
 A tutorial document DC3AlgorithmTutorial.pdf, explains algorithm step by steps.
 
 ## How to use
