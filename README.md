@@ -2,7 +2,7 @@
 ![Top Language](https://img.shields.io/github/languages/top/vikasawadhiya/DC3-Algorithm?style=plastic)
 ![License](https://img.shields.io/github/license/vikasawadhiya/DC3-Algorithm?color=%23f78113&style=plastic)
 
-DC3 is suffix construction algorithm. It requires linear time complexity O(n) to construct suffix array and it is easy to implement as compare to suffix tree construction algorithm.
+DC3 is suffix array construction algorithm. It requires linear time complexity O(n) to construct suffix array and it is easy to implement as compare to suffix tree construction algorithm.
 
 Algorithm is recursive in nature. Internally it uses radix sort which is efficient sorting technique for strings. Input string is converted into number array by converting each characters of string to number which make it easier to apply radix sort. Number array is then divided into two groups of sequences r<sub>0</sub> and r<sub>12</sub>. These two groups of sequences are sorted separately and merged to create suffix array.
 
